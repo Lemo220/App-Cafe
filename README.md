@@ -1,16 +1,3 @@
-# kawka
+# Kawiarnia
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Project created in flutter with Dart. It allows you to get control of orders. You can add quantity and price of items and print them on bluetooth printer. It will store data with sqflite on local device. Later you can control all orders and print summary from choosen period. You need only make .apk file and install it on your device.
